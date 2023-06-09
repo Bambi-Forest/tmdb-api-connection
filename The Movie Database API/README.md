@@ -54,7 +54,7 @@ $ git clone https://github.com/Bambi-Forest/tmdb-api-connection
 $ cd tmdb-api-connection
 
 # Install dependencies
-$ yarn
+$ pip install python-dotenv
 
 # Run the project
 $ yarn start
