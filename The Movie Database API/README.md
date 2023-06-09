@@ -38,6 +38,7 @@ The following tools were used in this project:
 - [Python](https://www.python.org/)
 - [The Movie Database API](https://www.themoviedb.org/)
 - [Azure Storage](https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction)
+- [Top Paid US Actors Info](https://www.statista.com/statistics/655480/all-time-top-grossing-actors-box-office/#:~:text=As%20of%20February%202023%2C%20Samuel,5.72%20billion%20U.S.%20dollars%20domestically.)
 
 
 ## Requirements ##
