@@ -33,6 +33,7 @@ Objective: Use this API to analyze the top 5 movies, by genre, starring any of t
 
 ## Key Features ##
 
+- Programming Language: Python
 - Masking API Key with environment variables
 - Establishing connection with The Movie Database API
 - Importing CSV file
