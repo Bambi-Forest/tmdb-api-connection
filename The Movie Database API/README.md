@@ -71,8 +71,6 @@ $ cd tmdb-api-connection
 $ pip install python-dotenv
 $ pip install azure-storage-blob azure.identity azure.keyvault sqlalchemy pyodbc
 
-# Run the project
-$ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
