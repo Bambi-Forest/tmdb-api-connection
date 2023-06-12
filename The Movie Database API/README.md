@@ -31,6 +31,17 @@
 The Movie Database API – 
 Objective: Use this API to analyze the top 5 movies, by genre, starring any of the top 10 paid actresses or the top 10 paid actors in the US.​
 
+## Key Features ##
+
+- Masking API Key with environment variables
+- Establishing connection with The Movie Database API
+- Importing CSV file
+- Unnesting JSON columns
+- Converting Json file to Dataframe using Pandas package
+- Export Dataframe to CSV file
+- Export CSV File to Azure Storage
+- List Blobs in container
+
 ## Technologies ##
 
 The following tools were used in this project:
@@ -56,6 +67,7 @@ $ cd tmdb-api-connection
 
 # Install dependencies
 $ pip install python-dotenv
+$ pip install azure-storage-blob azure.identity azure.keyvault sqlalchemy pyodbc
 
 # Run the project
 $ yarn start
